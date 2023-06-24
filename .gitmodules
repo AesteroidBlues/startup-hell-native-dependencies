@@ -1,0 +1,15 @@
+[submodule "deps/cimgui"]
+	path = deps/cimgui
+	url = git@github.com:AesteroidBlues/cimgui.git
+[submodule "deps/cimnodes"]
+	path = deps/cimnodes
+	url = git@github.com:AesteroidBlues/cimnodes.git
+[submodule "generator/ImGui.NET"]
+	path = generator/ImGui.NET
+	url = git@github.com:AesteroidBlues/ImGui.NET.git
+[submodule "deps/cimguizmo"]
+	path = deps/cimguizmo
+	url = git@github.com:AesteroidBlues/cimguizmo.git
+[submodule "deps/cimplot"]
+	path = deps/cimplot
+	url = git@github.com:AesteroidBlues/cimplot.git
