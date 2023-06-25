@@ -1,3 +1,7 @@
 {
-    "cmake.sourceDirectory": "F:/Projects/dependencies/startup-hell-native-dependencies/src"
+    "cmake.sourceDirectory": "F:/Projects/dependencies/startup-hell-native-dependencies/src",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
 }

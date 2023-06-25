@@ -1,0 +1,12 @@
+F:\Projects\dependencies\startup-hell-native-dependencies\wrapper\SHNative.NET\SHNative.NET\bin\Debug\net6.0\SHNative.NET.deps.json
+F:\Projects\dependencies\startup-hell-native-dependencies\wrapper\SHNative.NET\SHNative.NET\bin\Debug\net6.0\SHNative.NET.dll
+F:\Projects\dependencies\startup-hell-native-dependencies\wrapper\SHNative.NET\SHNative.NET\bin\Debug\net6.0\SHNative.NET.pdb
+F:\Projects\dependencies\startup-hell-native-dependencies\wrapper\SHNative.NET\SHNative.NET\obj\Debug\net6.0\SHNative.NET.csproj.AssemblyReference.cache
+F:\Projects\dependencies\startup-hell-native-dependencies\wrapper\SHNative.NET\SHNative.NET\obj\Debug\net6.0\SHNative.NET.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\dependencies\startup-hell-native-dependencies\wrapper\SHNative.NET\SHNative.NET\obj\Debug\net6.0\SHNative.NET.AssemblyInfoInputs.cache
+F:\Projects\dependencies\startup-hell-native-dependencies\wrapper\SHNative.NET\SHNative.NET\obj\Debug\net6.0\SHNative.NET.AssemblyInfo.cs
+F:\Projects\dependencies\startup-hell-native-dependencies\wrapper\SHNative.NET\SHNative.NET\obj\Debug\net6.0\SHNative.NET.csproj.CoreCompileInputs.cache
+F:\Projects\dependencies\startup-hell-native-dependencies\wrapper\SHNative.NET\SHNative.NET\obj\Debug\net6.0\SHNative.NET.dll
+F:\Projects\dependencies\startup-hell-native-dependencies\wrapper\SHNative.NET\SHNative.NET\obj\Debug\net6.0\refint\SHNative.NET.dll
+F:\Projects\dependencies\startup-hell-native-dependencies\wrapper\SHNative.NET\SHNative.NET\obj\Debug\net6.0\SHNative.NET.pdb
+F:\Projects\dependencies\startup-hell-native-dependencies\wrapper\SHNative.NET\SHNative.NET\obj\Debug\net6.0\ref\SHNative.NET.dll

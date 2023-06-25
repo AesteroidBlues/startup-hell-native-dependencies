@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OfXTW17QgPu8YpRs5CfkFI6pyYB1aL0yDB/47gbc7auwLEnywTBWY7WJVwKycGz/YdbEieydlG1K8twztvTUZA==",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\dependencies\\startup-hell-native-dependencies\\wrapper\\SHNative.NET\\SHNative.NET\\SHNative.NET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexf\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\alexf\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\alexf\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
